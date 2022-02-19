@@ -2,5 +2,4 @@
 CodeCademy Project
 
 
-[Live Link]
-(https://w1lsoncodes.github.io/Excursion-Landing-Page/)
+[Live Link](https://w1lsoncodes.github.io/Excursion-Landing-Page/)
